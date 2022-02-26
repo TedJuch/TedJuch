@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TedJuch. Professionally, I'm a Cloud Data Platform Architect. Personally, I'm a retired Google Product Expert for Google Sheets and Google Fi.
+- 👀 I’m interested in Snowflake, AWS, and Google Sheets.
+- 🌱 I’m always learning AWS, python, and all the data things.
+- 📫 Email me: ted.juch@gmail.com
+- 📫 Hit me up on LinkedIn: https://www.linkedin.com/in/tedjuch/
